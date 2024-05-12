@@ -7,17 +7,20 @@ Primero, necesitas tener Git instalado en tu máquina. Si no lo tienes, puedes d
 - [Download Git](https://git-scm.com/downloads)
 
 ## Paso 2: Clonar el Repositorio
-Windows 11
+Windows 11:
+
 Una vez que Git está instalado, puedes clonar el repositorio en tu máquina local: 
 - Crea una carpeta en tu computadora. 
 - Dentro de la carpeta haga click derecho en la carpeta vacía.
 - Busque la opcion mostrar más opciones.
 - Busque la sección que diga "open git Bash here".
 - Una vez dentro coloca el siguiente comando.
+
 ```
 git clone https://github.com/AdrianCoello/ProyectoFinal.git
 
 ```
+
 - **Listo** disfrute de el proyecto instalado en su equipo local.
 ## Paso 3: Instalar el Compilador
 
