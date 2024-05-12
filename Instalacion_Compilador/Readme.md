@@ -15,6 +15,7 @@ Hay que mantener la direccion donde se descargará el archivo
 
 ## Ver si faltan actualizaciones 
 Aparecera una panatalla negra en la que primero se necesita escribir "$ pacman -Syu" y apretar la tecla ENTER. Esta funciona para actualizar los programas.
+
 ![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Compilador/3.jpg.jpeg)
 
 En esta parte presionamos la tecla "y" y ENTER para continuar.
