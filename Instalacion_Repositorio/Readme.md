@@ -18,7 +18,7 @@ Una vez que Git está instalado, puedes clonar el repositorio en tu máquina loc
 git clone https://github.com/AdrianCoello/ProyectoFinal.git
 
 ```
-- **Listo** disfruta de su repositorio
+- **Listo** disfruta de el proyecto instalado en su equipo local.
 ## Paso 3: Instalar el Compilador
 
 Para ejecutar el programa, necesitarás tener instalado el compilador correspondiente. Encontrarás las instrucciones detalladas para instalar el compilador en la carpeta `Instalación del Compilador`.
