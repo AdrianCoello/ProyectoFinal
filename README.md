@@ -15,9 +15,11 @@ Para este proyecto el algoritmo elegido fue "Dijkstra" ya que sus ventajas lo co
 
 ## Estructura del Repositorio :open_file_folder: 
 
-Para poder lograr hacer este proyecto tuvimos varias ideas y 
+Para poder lograr hacer este proyecto tuvimos varias ideas y al final nos decidimos por esta porque puede ser implementada a la realidad, nos basamos en la idea principal de visita de estudiantes para averiguar acerca de las carreras de sus intereses. Nos dimos cuenta y pudimos observar que no hay una muy buena organizacion en estos eventos a la hora de timpos o distancias, por eso decidimos agarrar este problema y plantearlo de la siguiente manera:
 
-El repositorio está organizado en varias carpetas, cada una con un propósito específico:
+
+
+*El repositorio está organizado en varias carpetas, cada una con un propósito específico:*
 
 - `Instalación del Compilador`: Contiene instrucciones detalladas sobre cómo instalar el compilador necesario para ejecutar el código de nuestro proyecto.
 - `Intalación del repositorio`: Contiene instrucciones detalladas sobre cómo instalar el repositorio del proyecto.
@@ -27,7 +29,9 @@ El repositorio está organizado en varias carpetas, cada una con un propósito e
 
 
 Cada carpeta tiene su propio archivo README que explica en detalle su contenido y propósito.
-![image](https://github.com/AdrianCoello/ProyectoFinal/assets/165090205/8c05a482-0aec-4c31-b37b-359a1863a235)
+Los nodos seran las distintas carreras y las aristas la distancia que tardan de ir a un lugar a otro.
+![image](https://github.com/AdrianCoello/ProyectoFinal/assets/165090205/b8868c6c-3546-44d5-a65d-72215ed092e1)
+
 
 
 
