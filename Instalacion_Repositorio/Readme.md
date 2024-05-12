@@ -1,3 +1,4 @@
+![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Repositorio/github.png)
 # Instalación y Uso del Repositorio :white_check_mark:
 
 ## Paso 1: Instalar Git
