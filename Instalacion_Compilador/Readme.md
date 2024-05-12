@@ -36,6 +36,7 @@ Hay que entrar a las variables de entorno del sistema. y en la siguiente parte e
 ![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Compilador/6.jpg.jpeg) 
 
 Entrar a la parte de "Path" 
+
 ![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Compilador/7.jpg.jpeg) 
 ![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Compilador/8.jpg.jpeg) 
 
