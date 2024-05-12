@@ -1,4 +1,4 @@
-# Proyecto Final
+# Proyecto Final :page_facing_up:
 
 Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1. El proyecto fue desarrollado por los siguientes integrantes del grupo:
 
@@ -8,11 +8,11 @@ Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1.
 4. Diego Orellana
 5. Sebastian Nuñez
 
-## Acerca del Proyecto
+## Acerca del Proyecto :mag_right:
 
 (Descripción general del proyecto)
 
-## Estructura del Repositorio
+## Estructura del Repositorio :paperclip:
 
 El repositorio está organizado en varias carpetas, cada una con un propósito específico:
 
