@@ -19,7 +19,7 @@ El repositorio está organizado en varias carpetas, cada una con un propósito e
 - `Instalación del Compilador`: Contiene instrucciones detalladas sobre cómo instalar el compilador necesario para ejecutar el código de nuestro proyecto.
 - `Intalación del repositorio`: Contiene instrucciones detalladas sobre cómo instalar el repositorio del proyecto.
 - `Proyecto`: Contiene el código fuente de nuestro proyecto.
-- `Informe PDF`: Contiene nuestro informe del proyecto en formato PDF.
+- `Informe`: Contiene nuestro informe del proyecto en formato PDF.
 
 Cada carpeta tiene su propio archivo README que explica en detalle su contenido y propósito.
 
