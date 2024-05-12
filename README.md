@@ -12,7 +12,7 @@ Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1.
 
 (Descripción general del proyecto)
 
-## Estructura del Repositorio :paperclip:
+## Estructura del Repositorio :open_file_folder:
 
 El repositorio está organizado en varias carpetas, cada una con un propósito específico:
 
