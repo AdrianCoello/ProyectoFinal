@@ -4,7 +4,7 @@
 
 Primero, necesitas tener Git instalado en tu máquina. Si no lo tienes, puedes descargarlo desde la página oficial de Git. Sigue las instrucciones de instalación proporcionadas en la página.
 ```
-https://github.com/AdrianCoello/ProyectoFinal.git
+https://github.com/AdrianCoello/ProyectoFinal.git](https://git-scm.com/downloads
 ```
 ## Paso 2: Clonar el Repositorio
 Windows 11
