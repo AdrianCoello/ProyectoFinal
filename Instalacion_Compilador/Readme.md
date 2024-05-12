@@ -33,4 +33,4 @@ Para saber que la coneccion esta bien hecha, abrimos la consola cmd en nuestra c
 ## Utilizar el compilador
 Entramos a visual studio code, escribimos codigo y nos vamos a la parte de terminal, lanzamos un nueva terminal, nos aparecera la siguiente consola, en la que debemos escribir "g++ nombreDelArchivo.cpp -o nombreDelArchivo", esto hara que en la misma carpeta donde esta el archivo se cree un ejecutable con el mismo nombre, entolnces ahi solo tendremos que escribir: "./nombreDelArchivo.exe" y asi ya podriamos compilar nuestro codigo de c++.
 #### Si necesita ayuda
-En el siguiente video, se muestra todo este proceso explicado al detalle y paso a paso.
+En el siguiente video, se muestra todo este proceso explicado al detalle y paso a paso: "https://youtu.be/v3ENcQpoA5A?si=VIzdFT5bssVywTeT"
