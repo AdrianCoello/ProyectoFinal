@@ -1,18 +1,19 @@
-# Proyecto Final
+![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/BannerUPB.png)
+# Proyecto Final :page_facing_up:
 
 Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1. El proyecto fue desarrollado por los siguientes integrantes del grupo:
 
-1. Adrian Coello 
+1. Adrián Coello 
 2. Ariana Cordero
 3. Valeria Martinez
 4. Diego Orellana
 5. Sebastian Nuñez
 
-## Acerca del Proyecto
+## Acerca del Proyecto :mag_right:
 
 (Descripción general del proyecto)
 
-## Estructura del Repositorio
+## Estructura del Repositorio :open_file_folder:
 
 El repositorio está organizado en varias carpetas, cada una con un propósito específico:
 
