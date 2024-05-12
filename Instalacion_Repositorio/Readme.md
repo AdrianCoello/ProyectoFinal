@@ -47,7 +47,7 @@ git clone https://github.com/AdrianCoello/ProyectoFinal.git
 
 ```
 
-- **Listo** disfrute de el proyecto instalado en su equipo local.
+#### **Listo** disfrute de el proyecto instalado en su equipo local. :smile:
 
 ## Paso 3: Instalar el Compilador
 
