@@ -17,6 +17,15 @@ Para este proyecto el algoritmo elegido fue "Dijkstra" ya que sus ventajas lo co
 
 Para poder lograr hacer este proyecto tuvimos varias ideas y al final nos decidimos por esta porque puede ser implementada a la realidad, nos basamos en la idea principal de visita de estudiantes para averiguar acerca de las carreras de sus intereses. Nos dimos cuenta y pudimos observar que no hay una muy buena organizacion en estos eventos a la hora de timpos o distancias, por eso decidimos agarrar este problema y plantearlo de la siguiente manera:
 
+Los nodos seran las distintas carreras y las aristas la distancia que tardan de ir a un lugar a otro.
+
+
+
+![image](https://github.com/AdrianCoello/ProyectoFinal/assets/165090205/b8868c6c-3546-44d5-a65d-72215ed092e1)
+
+
+Despues de haber hecho todos los pasos como la instalacion del compilador, la instalacion del repositorio y una buena a leida a los readme o como hacer que compile la salida sera depende a la necesidad del esstudiante, podra elegir la carrera que quiere conocer al final y le aparecera todas las carreras por las cuales tendra que pasar, y lo mas importante la distancia que hay entre estas.
+
 
 
 *El repositorio está organizado en varias carpetas, cada una con un propósito específico:*
@@ -29,8 +38,7 @@ Para poder lograr hacer este proyecto tuvimos varias ideas y al final nos decidi
 
 
 Cada carpeta tiene su propio archivo README que explica en detalle su contenido y propósito.
-Los nodos seran las distintas carreras y las aristas la distancia que tardan de ir a un lugar a otro.
-![image](https://github.com/AdrianCoello/ProyectoFinal/assets/165090205/b8868c6c-3546-44d5-a65d-72215ed092e1)
+
 
 
 
