@@ -5,7 +5,7 @@ En esta parte se hara una explicacion paso a paso de como instalar un compilador
 ## Buscar en Google: "https://www.msys2.org/"
 Aquí hay una guía en la que se explican los pasos para instalar el compilador.
 Primero debemos descargar este instalador:
-![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/BannerUPB.png)
+![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/Instalacion_Compilador/1.jpg.jpeg)
 ## Abrir el instalador descargado
 Hay que mantener la direccion donde se descargará el archivo
 ![](https://github.com/AdrianCoello/ProyectoFinal/blob/main/BannerUPB.png)
