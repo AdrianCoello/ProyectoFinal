@@ -13,7 +13,7 @@ Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1.
 
 Para este proyecto el algoritmo elegido fue "Dijkstra" ya que sus ventajas lo convierten en una herramienta poderosa y versátil para resolver problemas mínimos de búsqueda de rutas en gráficos. Su eficiencia, simplicidad, precisión nos ayudaran a resolver el problema que planteamos: facilitar la experiencia de los estudiantes de las promociones que visitan la Universidad Privada Bolivariana (UPB) al permitirles recorrer y explorar las diversas exposiciones con los jefes de carrera de cada una, así como alcanzar la mesa de exposición de la carrera que tienen en mente pero cabe resaltar que en un tiempo menor y con menos dificultades de ir a un lugar a otro buscando lo que necesitan.
 
-#000000 Estructura del Repositorio :open_file_folder: 
+## Estructura del Repositorio :open_file_folder: 
 
 Para poder lograr hacer este proyecto tuvimos varias ideas y 
 
