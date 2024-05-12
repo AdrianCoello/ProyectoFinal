@@ -3,7 +3,7 @@
 
 Este repositorio contiene el código de nuestro proyecto final de Algoritmica 1. El proyecto fue desarrollado por los siguientes integrantes del grupo:
 
-1. Adrian Coello 
+1. Adrián Coello 
 2. Ariana Cordero
 3. Valeria Martinez
 4. Diego Orellana
