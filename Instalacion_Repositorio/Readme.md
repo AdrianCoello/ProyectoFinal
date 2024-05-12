@@ -1,4 +1,4 @@
-# Instalación y Uso del Repositorio
+# Instalación y Uso del Repositorio :white_check_mark:
 
 ## Paso 1: Instalar Git
 
@@ -59,5 +59,5 @@ Ahora puedes explorar las carpetas y archivos en el repositorio. Cada carpeta ti
 
 ## Paso 5: Compilar y Ejecutar el Programa
 
-Finalmente, puedes compilar y ejecutar el código del proyecto. Consulta el README en la carpeta `Proyecto` para más detalles.
+Finalmente, puedes compilar y ejecutar el código del proyecto. Consulta el README en la carpeta `Proyecto` para más detalles. :100:
 
